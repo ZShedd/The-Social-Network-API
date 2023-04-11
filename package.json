@@ -22,7 +22,7 @@
     "homepage": "https://github.com/ZShedd/The-Social-Network-API#readme",
     "dependencies": {
         "express": "^4.18.2",
-        "mongoose": "^6.9.2"
+        "mongoose": "^6.10.5"
     },
     "devDependencies": {
         "nodemon": "^2.0.21"
