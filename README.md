@@ -6,7 +6,7 @@ social networking BE apis
 ## Installation 
 npm i 
 ## Usage 
-[video walkthrough]
+[video walkthrough] (https://drive.google.com/file/d/13WzVQK6JxE3xJtgFyTay09CC8nrMW2AH/view)
 ## License 
 MIT License 
 
